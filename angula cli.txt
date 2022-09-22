@@ -1,0 +1,1 @@
+ng new gatitobook --strict (pesquisar sobre o strict)
