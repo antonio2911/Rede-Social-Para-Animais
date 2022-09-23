@@ -1,0 +1,11 @@
+npm install --save-dev prettier
+
+npm install --save-dev tslint-config-prettier
+npm install --save-dev tslint-plugin-prettier
+
+"extends": ["tslint:recommended", "tslint-plugin-prettier", "tslint-config-prettier"]
+
+npm i bootstrap font-awesome
+
+a versão do professor e a boot: @4.5.3
+font-awesome@4.7.0

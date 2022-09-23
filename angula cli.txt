@@ -1,1 +1,3 @@
 ng new gatitobook --strict (pesquisar sobre o strict)
+
+ng g c --d para ver um preview antes de rodar o comando
